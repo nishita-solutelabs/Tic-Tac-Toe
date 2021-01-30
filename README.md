@@ -1,9 +1,9 @@
 # tic_tac_toe
 
-![1](https://user-images.githubusercontent.com/77614066/106355422-bf52ad00-631d-11eb-86d0-9cb951a88643.png)
+![1](https://user-images.githubusercontent.com/77614066/106356699-9505ed00-6327-11eb-9203-51b86fb8d381.png)
 
 
-![2](https://user-images.githubusercontent.com/77614066/106355430-c974ab80-631d-11eb-8508-063871e0dffc.png)
+![2](https://user-images.githubusercontent.com/77614066/106356704-99320a80-6327-11eb-8499-69c48bfcc56c.png)
 
 
 Tic Tac Toe Game made in Flutter
